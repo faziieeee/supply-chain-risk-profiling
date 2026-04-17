@@ -1,0 +1,6 @@
+Supplier,Vendor_Financial_Health,Third_Party_Access_Control,Incident_Response_Readiness,Vulnerability_Management,Delivery_SLA_Performance,Compliance_Certification,Risk_Score,Risk_Level,Weighted_Vendor_Financial_Health,Weighted_Third_Party_Access_Control,Weighted_Incident_Response_Readiness,Weighted_Vulnerability_Management,Weighted_Delivery_SLA_Performance,Weighted_Compliance_Certification
+Supplier A,7,6,5,8,6,9,6.750000000000002,🟠 High,1.4000000000000001,1.2000000000000002,0.75,1.6,0.8999999999999999,0.9
+Supplier B,4,8,3,5,7,4,5.300000000000001,🟡 Medium,0.8,1.6,0.44999999999999996,1.0,1.05,0.4
+Supplier C,8,5,9,7,8,7,7.250000000000001,🟠 High,1.6,1.0,1.3499999999999999,1.4000000000000001,1.2,0.7000000000000001
+Supplier D,3,7,4,2,5,3,4.05,🟡 Medium,0.6000000000000001,1.4000000000000001,0.6,0.4,0.75,0.30000000000000004
+Supplier E,6,4,7,6,3,8,5.5,🟡 Medium,1.2000000000000002,0.8,1.05,1.2000000000000002,0.44999999999999996,0.8
